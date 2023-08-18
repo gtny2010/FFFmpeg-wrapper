@@ -1,0 +1,3 @@
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/workspace/depends/libomx/lib:/workspace/depends/libffmpeg0.5.10/lib:/workspace/depends/libopencv-n4.6/lib
+
+export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/workspace/depends/libffmpeg5.0/lib:/workspace/depends/libx264/lib:/workspace/depends/libffmpeg0.5.10/lib:/workspace/depends/libomx/lib/bellagio:/workspace/depends/libopencv-n4.6/lib:/workspace/depends/libx265/lib:/workspace/depends/libvpx/lib:/workspace/depends/libxavs2/lib:/workspace/depends/libxavs/lib
